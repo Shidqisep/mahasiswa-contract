@@ -54,24 +54,13 @@ Uses nim as the key
 #[cfg(test)]
 mod test;
 
+screenshot
+<img width="1919" height="1015" alt="image" src="https://github.com/user-attachments/assets/0d5b4b0c-aa9c-41b7-acac-c633aa7959e2" />
+
+
 You can implement unit tests to verify each function’s behavior.
 
 🛠️ Built With
 Rust (#![no_std])
 Soroban SDK
 Stellar Smart Contracts
-📌 Notes
-This is a basic implementation intended for learning purposes
-No validation or error handling is implemented (e.g., duplicate checks, input validation)
-Can be extended with:
-Access control (admin-only updates)
-Events/logging
-Pagination or listing all students
-📈 Future Improvements
-Add authorization (only owner can modify data)
-Implement indexing or student listing
-Add validation for input fields
-Integrate with frontend (e.g., React + Soroban RPC)
-📄 License
-
-This project is open-source and available for educational use.
