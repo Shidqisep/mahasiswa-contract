@@ -54,13 +54,6 @@ Uses nim as the key
 #[cfg(test)]
 mod test;
 
-screenshot
-<img width="1919" height="1015" alt="image" src="https://github.com/user-attachments/assets/0d5b4b0c-aa9c-41b7-acac-c633aa7959e2" />
+Screenshot testnet
 
-
-You can implement unit tests to verify each function’s behavior.
-
-🛠️ Built With
-Rust (#![no_std])
-Soroban SDK
-Stellar Smart Contracts
+This project is open-source and available for educational use.
